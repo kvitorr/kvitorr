@@ -1,13 +1,17 @@
 ## Olá 👋
 
 Sou Desenvolvedor Full Stack Java e React, cursando Tecnologia em Análise e Desenvolvimento de Sistemas no IFPI e entusiasta em Engenharia de Software.
+<div>
+<a href="https://www.linkedin.com/in/kvitorr/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>   
+</div>
 
-### Tecnologias
+
+## Tecnologias
 
 >Linguagens, frameworks, bancos de dados, plataformas, ferramentas e ambientes de desenvolvimento nas quais tenho experiência, seja em projetos corporativos ou pessoais
 
 <a href="https://skillicons.dev">
-  <img height="35px" src="https://skillicons.dev/icons?i=java,nodejs,ts,js,express,nestjs,mongodb,postgres,git,docker,linux,vscode,github,md&perline=50" alt="node.js, typescript, javascript, jest.js, express.js, nest.js, prisma, mongodb, postgresql, dynamodb, amazon web services, git, docker, linux, bash, vscode, github, markdown" title="node.js, typescript, javascript, jest.js, express.js, nest.js, amazon web services, prisma, mongodb, postgresql, dynamodb, git, docker, linux, bash, vscode, github, markdown">
+  <img height="35px" src="https://skillicons.dev/icons?i=java,spring,nodejs,ts,js,express,nestjs,mongodb,postgres,git,docker,linux,vscode,github,md&perline=50" alt="node.js, typescript, javascript, jest.js, express.js, nest.js, prisma, mongodb, postgresql, dynamodb, amazon web services, git, docker, linux, bash, vscode, github, markdown" title="node.js, typescript, javascript, jest.js, express.js, nest.js, amazon web services, prisma, mongodb, postgresql, dynamodb, git, docker, linux, bash, vscode, github, markdown">
 </a>
 
 
