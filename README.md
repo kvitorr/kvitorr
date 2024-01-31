@@ -1,6 +1,6 @@
 ## Olá 👋
 
-Sou Desenvolvedor Backend Java, cursando Tecnologia em Análise e Desenvolvimento de Sistemas no IFPI. Atualmente sou Estagiário em Desenvolvimento de Software no Conselho de Engenharia e Agronomia do Piauí :)
+Sou desenvolvedor Java no Conselho de Engenharia e Agronomia do Piauí e entusiasta de cibersegurança :)
 <div>
 <a href="https://www.linkedin.com/in/kvitorr/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>   
 </div>
