@@ -11,7 +11,7 @@ Sou desenvolvedor Java no Conselho de Engenharia e Agronomia do Piauí e entusia
 >Linguagens, frameworks, bancos de dados, plataformas, ferramentas e ambientes de desenvolvimento nas quais tenho experiência, seja em projetos corporativos ou pessoais
 
 <a href="https://skillicons.dev">
-  <img height="35px" src="https://skillicons.dev/icons?i=java,spring,springboot,mongodb,postgres,git,docker,linux,vscode,github&perline=50" alt="java, spring, springboot, mongodb, postgresql, 
+  <img height="35px" src="https://skillicons.dev/icons?i=java,spring,mongodb,postgres,git,docker,linux,vscode,github&perline=50" alt="java, spring, springboot, mongodb, postgresql, 
  git, docker, linux, bash" title="java, spring, springboot, mongodb, postgresql, 
  git, docker, linux, bash">
 </a>
