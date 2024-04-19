@@ -1,6 +1,6 @@
 ## Olá 👋
 
-Sou desenvolvedor Java no Conselho de Engenharia e Agronomia do Piauí e entusiasta de cibersegurança :)
+Sou Desenvolvedor Java Jr na Asset Banking System e entusiasta de cibersegurança :)
 <div>
 <a href="https://www.linkedin.com/in/kvitorr/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>   
 </div>
