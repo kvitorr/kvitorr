@@ -1,9 +1,17 @@
 ## Olá 👋
 
 Sou Desenvolvedor Java Jr na Asset Banking System e entusiasta de cibersegurança :)
-<div>
-<a href="https://www.linkedin.com/in/kvitorr/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>   
+
+<div style="text-align: center;">
+  <img src="image-1.png" style="height:150px;">
 </div>
+
+## Artigos
+>Minhas publicações
+
+* `Dev.to` - [Técnicas para reutilização de código em Arquitetura de Microsserviços](https://dev.to/arauhovitor/reutilizando-codigo-em-arquitetura-de-microsservicos-1c83)
+
+* `Dev.to` - [Minha trajetória como Desenvolvedor Jr](https://dev.to/arauhovitor/minha-trajetoria-como-desenvolvedor-jr-53i7)
 
 
 ## Tecnologias
@@ -16,9 +24,6 @@ Sou Desenvolvedor Java Jr na Asset Banking System e entusiasta de ciberseguranç
  git, docker, linux, bash">
 </a>
 
+---
 
-<!--- ### Artigos
->Minhas principais publicações
-
-* `Medium` - [AWS Food Fair API: Um CRUD com serviços da AWS e testes automatizados de integração e end-to-end](https://medium.com/@marcusviniciusfa/aws-food-fair-api-3244aa843d70)
---->
+<a href="https://www.linkedin.com/in/kvitorr/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>   
