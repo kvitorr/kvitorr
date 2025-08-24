@@ -9,7 +9,7 @@ Sou Desenvolvedor Java Jr na Asset Banking System e entusiasta de ciberseguranç
 ## Artigos
 >Minhas publicações
 
-* `Dev.to` - [Técnicas para reutilização de código em Arquitetura de Microsserviços](https://dev.to/arauhovitor/reutilizando-codigo-em-arquitetura-de-microsservicos-1c83)
+* `Dev.to` - [Como começar a lidar com código duplicado em Microsserviços](https://dev.to/arauhovitor/reutilizando-codigo-em-arquitetura-de-microsservicos-1c83)
 
 * `Dev.to` - [Minha trajetória como Desenvolvedor Jr](https://dev.to/arauhovitor/minha-trajetoria-como-desenvolvedor-jr-53i7)
 
