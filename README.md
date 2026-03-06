@@ -1,6 +1,6 @@
 ## Olá 👋
 
-Sou Desenvolvedor Java Jr na Asset Banking System e entusiasta de cibersegurança :)
+Sou Engenheiro de Software Jr na Conta Azul e entusiasta de cibersegurança :)
 
 <div style="text-align: center;">
   <img src="image-1.png" style="height:150px;">
