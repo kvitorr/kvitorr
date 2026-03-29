@@ -2,18 +2,16 @@
 
 Sou Engenheiro de Software Jr na Conta Azul e entusiasta de cibersegurança :)
 
+## Site pessoal com publicações :) 
+
+[Conheça mais sobre mim)](https://kvitorr.github.io/)
+
+
+
 <div style="text-align: center;">
   <img src="image-1.png" style="height:150px;">
 </div>
 
-## Artigos
->Minhas publicações
-
-* `Dev.to` - [Introdução à Mensageria com RabbitMQ (Parte 1 – Conceitos)](https://dev.to/arauhovitor/introducao-a-mensageria-com-rabbitmq-parte-1-conceitos-671)
-
-* `Dev.to` - [Como começar a lidar com código duplicado em Microsserviços](https://dev.to/arauhovitor/reutilizando-codigo-em-arquitetura-de-microsservicos-1c83)
-
-* `Dev.to` - [Minha trajetória como Desenvolvedor Jr](https://dev.to/arauhovitor/minha-trajetoria-como-desenvolvedor-jr-53i7)
 
 
 ## Tecnologias
