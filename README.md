@@ -4,7 +4,7 @@ Sou Engenheiro de Software Jr na Conta Azul e entusiasta de cibersegurança :)
 
 ## Site pessoal com publicações :) 
 
-[Conheça mais sobre mim)](https://kvitorr.github.io/)
+[Conheça mais sobre mim](https://kvitorr.github.io/)
 
 
 
